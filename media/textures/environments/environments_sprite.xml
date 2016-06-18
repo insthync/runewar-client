@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:9582a8202f42dd493711c1d5bcbd3e47$ -->
+<TextureAtlas imagePath="environments_sprite.png">
+    <SubTexture name="EnemyGate01" x="566" y="2" width="82" height="582" frameX="-2" frameY="-61" frameWidth="84" frameHeight="800"/>
+    <SubTexture name="EnemyGate02" x="650" y="2" width="80" height="582" frameX="-4" frameY="-61" frameWidth="84" frameHeight="800"/>
+    <SubTexture name="EnemyHomeBack" x="732" y="141" width="112" height="137" frameX="0" frameY="-2" frameWidth="112" frameHeight="139"/>
+    <SubTexture name="EnemyHomeFront" x="732" y="2" width="112" height="137" frameX="0" frameY="-2" frameWidth="112" frameHeight="139"/>
+    <SubTexture name="Gate01" x="480" y="2" width="84" height="800"/>
+    <SubTexture name="Gate02" x="394" y="2" width="84" height="800"/>
+    <SubTexture name="HomeBack" x="732" y="409" width="112" height="127"/>
+    <SubTexture name="HomeFront" x="732" y="280" width="112" height="127"/>
+    <SubTexture name="LoseTexture" x="2" y="2" width="390" height="438"/>
+    <SubTexture name="Profile01" x="566" y="680" width="145" height="145" frameX="-9" frameY="-28" frameWidth="189" frameHeight="173"/>
+    <SubTexture name="Profile02" x="713" y="680" width="167" height="109" frameX="0" frameY="-4" frameWidth="189" frameHeight="173"/>
+    <SubTexture name="Profile03" x="394" y="804" width="121" height="39" frameX="-8" frameY="-13" frameWidth="189" frameHeight="173"/>
+    <SubTexture name="SelectMonster_BG" x="713" y="791" width="139" height="86"/>
+    <SubTexture name="SelectMonster_OK" x="394" y="845" width="67" height="36"/>
+    <SubTexture name="WinTexture" x="2" y="442" width="390" height="414" frameX="0" frameY="-24" frameWidth="390" frameHeight="438"/>
+    <SubTexture name="WinLoseOKTexture" x="566" y="586" width="253" height="92"/>
+</TextureAtlas>

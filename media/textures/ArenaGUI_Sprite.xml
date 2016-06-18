@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:6e56f4285506d3b3352211bccd7e3cd1$ -->
+<TextureAtlas imagePath="ArenaGUI_Sprite.png">
+    <SubTexture name="Accept_Button" x="394" y="190" width="253" height="92" frameX="0" frameY="-2" frameWidth="253" frameHeight="96"/>
+    <SubTexture name="Cross" x="568" y="284" width="45" height="52" frameX="-3" frameY="0" frameWidth="51" frameHeight="54"/>
+    <SubTexture name="Fight_Button" x="394" y="96" width="253" height="92" frameX="0" frameY="-2" frameWidth="253" frameHeight="96"/>
+    <SubTexture name="Request_Button" x="394" y="2" width="253" height="92" frameX="0" frameY="-2" frameWidth="253" frameHeight="96"/>
+    <SubTexture name="Shield01" x="2" y="2" width="390" height="403"/>
+    <SubTexture name="Shield02" x="394" y="284" width="172" height="159" frameX="-112" frameY="-152" frameWidth="390" frameHeight="403"/>
+</TextureAtlas>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:c3f4f824b1894ea616805c289a8d2def$ -->
+<TextureAtlas imagePath="GUI_Sprite.png">
+    <SubTexture name="Add_Button" x="427" y="226" width="109" height="110" frameX="0" frameY="-3" frameWidth="113" frameHeight="114"/>
+    <SubTexture name="BetaGUI" x="163" y="393" width="130" height="134" frameX="0" frameY="0" frameWidth="130" frameHeight="136"/>
+    <SubTexture name="Fight_btn" x="189" y="271" width="159" height="120"/>
+    <SubTexture name="FriendGUI" x="427" y="114" width="109" height="110" frameX="0" frameY="-3" frameWidth="113" frameHeight="114"/>
+    <SubTexture name="FriendGUI_Back" x="353" y="465" width="81" height="70" frameX="-16" frameY="-20" frameWidth="113" frameHeight="114"/>
+    <SubTexture name="FriendGUI_MouseOver_BG" x="425" y="2" width="111" height="110" frameX="0" frameY="-3" frameWidth="113" frameHeight="114"/>
+    <SubTexture name="FriendGUI_MouseOver_Fight" x="436" y="375" width="85" height="35" frameX="-2" frameY="0" frameWidth="89" frameHeight="35"/>
+    <SubTexture name="FriendGUI_MouseOver_Visit" x="436" y="338" width="85" height="35" frameX="-2" frameY="0" frameWidth="89" frameHeight="35"/>
+    <SubTexture name="GemBar" x="193" y="96" width="216" height="95" frameX="0" frameY="-2" frameWidth="216" frameHeight="97"/>
+    <SubTexture name="HeartBar" x="193" y="193" width="232" height="76" frameX="-4" frameY="-4" frameWidth="236" frameHeight="80"/>
+    <SubTexture name="Home_btn" x="2" y="390" width="159" height="120"/>
+    <SubTexture name="MoneyBar" x="193" y="2" width="230" height="92"/>
+    <SubTexture name="Next_btn" x="353" y="391" width="46" height="72" frameX="0" frameY="-6" frameWidth="46" frameHeight="78"/>
+    <SubTexture name="OptionGUI" x="436" y="412" width="56" height="55"/>
+    <SubTexture name="Prev_btn" x="350" y="271" width="46" height="72" frameX="0" frameY="-6" frameWidth="46" frameHeight="78"/>
+    <SubTexture name="Setting_BG" x="295" y="393" width="56" height="143"/>
+    <SubTexture name="Setting_Fullscreen_Off" x="2" y="512" width="30" height="24" frameX="-5" frameY="-6" frameWidth="42" frameHeight="38"/>
+    <SubTexture name="Setting_Fullscreen_On" x="436" y="469" width="30" height="26" frameX="-5" frameY="-6" frameWidth="42" frameHeight="38"/>
+    <SubTexture name="Setting_Music_Off" x="494" y="440" width="28" height="26" frameX="-7" frameY="-5" frameWidth="42" frameHeight="38"/>
+    <SubTexture name="Setting_Music_On" x="494" y="412" width="28" height="26" frameX="-6" frameY="-5" frameWidth="42" frameHeight="38"/>
+    <SubTexture name="Setting_Sound_Off" x="34" y="512" width="28" height="18" frameX="-9" frameY="-14" frameWidth="42" frameHeight="38"/>
+    <SubTexture name="Setting_Sound_On" x="436" y="497" width="28" height="26" frameX="-8" frameY="-6" frameWidth="42" frameHeight="38"/>
+    <SubTexture name="Shop_btn" x="350" y="345" width="38" height="44"/>
+    <SubTexture name="StatusGUI_Green" x="468" y="469" width="15" height="14" frameX="-15" frameY="-12" frameWidth="113" frameHeight="114"/>
+    <SubTexture name="StatusGUI_Yellow" x="398" y="271" width="15" height="14" frameX="-15" frameY="-12" frameWidth="113" frameHeight="114"/>
+    <SubTexture name="UserGUI_Back" x="2" y="2" width="189" height="193" frameX="-5" frameY="-4" frameWidth="221" frameHeight="197"/>
+    <SubTexture name="UserGUI_Top" x="2" y="197" width="185" height="191" frameX="-6" frameY="-6" frameWidth="221" frameHeight="197"/>
+</TextureAtlas>

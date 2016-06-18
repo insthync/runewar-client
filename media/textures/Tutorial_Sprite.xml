@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:81d4338bb01bc8a2bf0e3f8c3c9e9ad2$ -->
+<TextureAtlas imagePath="Tutorial_Sprite.png">
+    <SubTexture name="arrow" x="530" y="788" width="104" height="156" frameX="-2" frameY="0" frameWidth="108" frameHeight="158"/>
+    <SubTexture name="back_button" x="530" y="726" width="125" height="60"/>
+    <SubTexture name="next_button" x="530" y="664" width="125" height="60"/>
+    <SubTexture name="npc_icon" x="530" y="534" width="128" height="128"/>
+    <SubTexture name="npc_tutorial" x="2" y="534" width="526" height="1044" frameX="-56" frameY="-31" frameWidth="660" frameHeight="1116"/>
+    <SubTexture name="ok_button" x="530" y="946" width="85" height="71"/>
+    <SubTexture name="paper" x="2" y="2" width="713" height="530"/>
+</TextureAtlas>

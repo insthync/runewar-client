@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextureAtlas>
+<SubTexture name="Heal_Skill01"  x="0" y="0" width="150" height="150" />
+<SubTexture name="Heal_Skill02"  x="151" y="0" width="150" height="150" />
+<SubTexture name="Heal_Skill03"  x="302" y="0" width="150" height="150" />
+<SubTexture name="Heal_Skill04"  x="0" y="151" width="150" height="150" />
+<SubTexture name="Heal_Skill05"  x="151" y="151" width="150" height="150" />
+<SubTexture name="Heal_Skill06"  x="0" y="302" width="150" height="150" />
+<SubTexture name="Meteor_Boom01"  x="151" y="302" width="150" height="150" />
+<SubTexture name="Meteor_Boom02"  x="302" y="151" width="150" height="150" />
+<SubTexture name="Meteor_Boom03"  x="302" y="302" width="150" height="150" />
+<SubTexture name="Meteor_Boom04"  x="453" y="0" width="150" height="150" />
+<SubTexture name="Meteor_Boom05"  x="453" y="151" width="150" height="150" />
+<SubTexture name="Meteor_Boom06"  x="604" y="0" width="150" height="150" />
+<SubTexture name="Meteor_Skill01"  x="453" y="302" width="150" height="150" />
+<SubTexture name="Meteor_Skill02"  x="604" y="151" width="150" height="150" />
+<SubTexture name="Meteor_Skill03"  x="755" y="0" width="150" height="150" />
+<SubTexture name="Stun_Skill01"  x="755" y="151" width="150" height="150" />
+<SubTexture name="Stun_Skill02"  x="604" y="302" width="150" height="150" />
+<SubTexture name="Stun_Skill03"  x="755" y="302" width="150" height="150" />
+<SubTexture name="Stun_Skill04"  x="0" y="453" width="150" height="150" />
+<SubTexture name="Stun_Skill05"  x="151" y="453" width="150" height="150" />
+<SubTexture name="Stun_Skill06"  x="302" y="453" width="150" height="150" />
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:d3a62b9ccc580cc1825de12b1bc9e421$ -->
+<TextureAtlas imagePath="Shop_Sprite.png">
+    <SubTexture name="Cross" x="770" y="102" width="43" height="51"/>
+    <SubTexture name="Icon_Gem" x="991" y="81" width="24" height="36" frameX="-6" frameY="-2" frameWidth="36" frameHeight="38"/>
+    <SubTexture name="Icon_Money" x="991" y="51" width="28" height="30" frameX="-4" frameY="-5" frameWidth="36" frameHeight="38"/>
+    <SubTexture name="ItemGem" x="713" y="102" width="57" height="83" frameX="0" frameY="-1" frameWidth="57" frameHeight="85"/>
+    <SubTexture name="ItemHeart" x="911" y="51" width="80" height="65" frameX="-3" frameY="-2" frameWidth="84" frameHeight="69"/>
+    <SubTexture name="Item_Active" x="713" y="0" width="102" height="102" frameX="-8" frameY="-4" frameWidth="118" frameHeight="106"/>
+    <SubTexture name="Item_Lock" x="0" y="1143" width="503" height="106"/>
+    <SubTexture name="Paper_CharacterInfo_Shadow" x="0" y="530" width="667" height="484" frameX="-21" frameY="-27" frameWidth="713" frameHeight="530"/>
+    <SubTexture name="PriceGem" x="815" y="51" width="96" height="51"/>
+    <SubTexture name="PriceGold" x="912" y="0" width="96" height="51"/>
+    <SubTexture name="Shop_Shadow" x="0" y="1014" width="591" height="129" frameX="-8" frameY="0" frameWidth="607" frameHeight="133"/>
+    <SubTexture name="Skill_Use" x="815" y="0" width="97" height="51"/>
+    <SubTexture name="paper" x="0" y="0" width="713" height="530"/>
+</TextureAtlas>

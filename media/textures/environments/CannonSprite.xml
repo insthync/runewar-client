@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextureAtlas>
+<SubTexture name="CannonSprite_01"  x="0" y="0" width="246" height="218" />
+<SubTexture name="CannonSprite_02"  x="247" y="0" width="246" height="218" />
+<SubTexture name="CannonSprite_03"  x="0" y="219" width="246" height="218" />
+<SubTexture name="CannonSprite_04"  x="247" y="219" width="246" height="218" />
+<SubTexture name="CannonSprite_05"  x="494" y="0" width="246" height="218" />
+<SubTexture name="CannonSprite_06"  x="494" y="219" width="246" height="218" />
+</TextureAtlas>

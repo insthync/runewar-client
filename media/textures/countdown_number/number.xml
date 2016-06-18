@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextureAtlas>
+<SubTexture name="Number_1"  x="0" y="0" width="440" height="382" />
+<SubTexture name="Number_2"  x="441" y="0" width="440" height="382" />
+<SubTexture name="Number_3"  x="0" y="383" width="440" height="382" />
+<SubTexture name="Number_4"  x="441" y="383" width="440" height="382" />
+<SubTexture name="Number_5"  x="882" y="0" width="440" height="382" />
+<SubTexture name="Number_6"  x="882" y="383" width="440" height="382" />
+<SubTexture name="Number_7"  x="1323" y="0" width="440" height="382" />
+<SubTexture name="Number_8"  x="1323" y="383" width="440" height="382" />
+<SubTexture name="Number_9"  x="0" y="766" width="440" height="382" />
+<SubTexture name="Number_10"  x="441" y="766" width="440" height="382" />
+</TextureAtlas>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextureAtlas>
+<SubTexture name="Orange_Questionmark"  x="0" y="0" width="100" height="100" />
+<SubTexture name="Rune_Selected"  x="101" y="0" width="100" height="100" />
+<SubTexture name="RuneBase_Archer"  x="707" y="202" width="50" height="50" />
+<SubTexture name="RuneBase_Assasin"  x="707" y="253" width="50" height="50" />
+<SubTexture name="RuneBase_Fighter"  x="758" y="202" width="50" height="50" />
+<SubTexture name="RuneBase_Hermit"  x="758" y="253" width="50" height="50" />
+<SubTexture name="RuneBase_Knight"  x="707" y="304" width="50" height="50" />
+<SubTexture name="RuneBase_Mage"  x="707" y="355" width="50" height="50" />
+<SubTexture name="RuneBlue_Archer"  x="0" y="101" width="100" height="100" />
+<SubTexture name="RuneBlue_Assasin"  x="101" y="101" width="100" height="100" />
+<SubTexture name="RuneBlue_Fighter"  x="202" y="0" width="100" height="100" />
+<SubTexture name="RuneBlue_Hermit"  x="202" y="101" width="100" height="100" />
+<SubTexture name="RuneBlue_Knight"  x="303" y="0" width="100" height="100" />
+<SubTexture name="RuneBlue_Mage"  x="404" y="0" width="100" height="100" />
+<SubTexture name="RuneGreen_Archer"  x="303" y="101" width="100" height="100" />
+<SubTexture name="RuneGreen_Assasin"  x="404" y="101" width="100" height="100" />
+<SubTexture name="RuneGreen_Fighter"  x="0" y="202" width="100" height="100" />
+<SubTexture name="RuneGreen_Hermit"  x="101" y="202" width="100" height="100" />
+<SubTexture name="RuneGreen_Knight"  x="0" y="303" width="100" height="100" />
+<SubTexture name="RuneGreen_Mage"  x="202" y="202" width="100" height="100" />
+<SubTexture name="RuneRed_Archer"  x="101" y="303" width="100" height="100" />
+<SubTexture name="RuneRed_Assasin"  x="303" y="202" width="100" height="100" />
+<SubTexture name="RuneRed_Fighter"  x="202" y="303" width="100" height="100" />
+<SubTexture name="RuneRed_Hermit"  x="303" y="303" width="100" height="100" />
+<SubTexture name="RuneRed_Knight"  x="404" y="202" width="100" height="100" />
+<SubTexture name="RuneRed_Mage"  x="404" y="303" width="100" height="100" />
+<SubTexture name="RuneYellow_Archer"  x="505" y="0" width="100" height="100" />
+<SubTexture name="RuneYellow_Assasin"  x="606" y="0" width="100" height="100" />
+<SubTexture name="RuneYellow_Fighter"  x="505" y="101" width="100" height="100" />
+<SubTexture name="RuneYellow_Hermit"  x="606" y="101" width="100" height="100" />
+<SubTexture name="RuneYellow_Knight"  x="505" y="202" width="100" height="100" />
+<SubTexture name="RuneYellow_Mage"  x="707" y="0" width="100" height="100" />
+<SubTexture name="X4-Skill"  x="707" y="101" width="100" height="100" />
+<SubTexture name="X5-Skill01"  x="606" y="202" width="100" height="100" />
+<SubTexture name="X5-Skill02"  x="505" y="303" width="100" height="100" />
+<SubTexture name="X5-Skill03"  x="606" y="303" width="100" height="100" />
+</TextureAtlas>
